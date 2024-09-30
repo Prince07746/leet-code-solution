@@ -1,7 +1,7 @@
-# leet-code-solution
+### leet-code-solution in Java
 all leet code solutions possible
 
-# LeetCode Challenge Solutions
+## LeetCode Challenge Solutions
 This repository contains my solutions to various LeetCode challenges. Each solution is implemented with a focus on efficiency, clarity, and best coding practices. The challenges cover a wide range of topics including algorithms, data structures, and problem-solving techniques in various programming languages.
 
 ## Structure:
